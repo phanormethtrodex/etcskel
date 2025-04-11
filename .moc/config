@@ -1,0 +1,4 @@
+SoundDriver=ALSA
+ALSAStutterDefeat=no
+Theme=darkdot_theme
+Keymap=keymap

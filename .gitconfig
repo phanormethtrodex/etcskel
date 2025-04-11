@@ -1,0 +1,8 @@
+[user]
+	name = <github-username>
+	email = <github@email>
+	signingkey = 0XABCD1234DCBA4321
+[commit]
+	gpgsign = true
+[core]
+	editor = /usr/bin/vim
