@@ -4,6 +4,7 @@
 ###
 #misc /etc/skel/ junk
 ###
+.aldorc
 .bashrc
 .vimrc
 .screenrc
